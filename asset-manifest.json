@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chynwe9ijakids/static/css/main.a34f80d0.css",
+    "main.js": "/chynwe9ijakids/static/js/main.a85c4090.js",
+    "static/media/children.png": "/chynwe9ijakids/static/media/children.c827a4ab0b06a85ef50d.png",
+    "static/media/backgroundhome.png": "/chynwe9ijakids/static/media/backgroundhome.8007e094dc49c770f233.png",
+    "index.html": "/chynwe9ijakids/index.html",
+    "main.a34f80d0.css.map": "/chynwe9ijakids/static/css/main.a34f80d0.css.map",
+    "main.a85c4090.js.map": "/chynwe9ijakids/static/js/main.a85c4090.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34f80d0.css",
+    "static/js/main.a85c4090.js"
+  ]
+}
